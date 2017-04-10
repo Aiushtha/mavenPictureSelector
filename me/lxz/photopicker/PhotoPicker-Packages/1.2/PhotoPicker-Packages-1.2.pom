@@ -8,18 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>testPhoto</groupId>
-      <artifactId>PhotoPicker</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>testPhoto</groupId>
-      <artifactId>circleindicator</artifactId>
-      <version>1.1.5</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.nostra13.universalimageloader</groupId>
       <artifactId>universal-image-loader</artifactId>
       <version>+</version>
@@ -41,6 +29,18 @@
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.iwf.photopicker</groupId>
+      <artifactId>PhotoPicker</artifactId>
+      <version>1.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.relex.circleindicator</groupId>
+      <artifactId>circleindicator</artifactId>
+      <version>1.2</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
