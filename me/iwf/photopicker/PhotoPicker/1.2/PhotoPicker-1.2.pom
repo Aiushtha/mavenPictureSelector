@@ -8,34 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <artifactId>circleindicator</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <artifactId>photopicker</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.nostra13.universalimageloader</groupId>
-      <artifactId>universal-image-loader</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>design</artifactId>
       <version>+</version>
