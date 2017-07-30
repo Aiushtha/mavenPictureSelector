@@ -3,10 +3,10 @@
   <groupId>me.iwf.photopicker</groupId>
   <artifactId>PhotoPicker</artifactId>
   <versioning>
-    <release>1.2</release>
+    <release>1.8</release>
     <versions>
-      <version>1.2</version>
+      <version>1.8</version>
     </versions>
-    <lastUpdated>20170703015646</lastUpdated>
+    <lastUpdated>20170730011710</lastUpdated>
   </versioning>
 </metadata>
